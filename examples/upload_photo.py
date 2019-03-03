@@ -3,7 +3,7 @@ import time
 from InstagramAPI import InstagramAPI
 
 #ACA EN VEZ DE jnqov4 VA TU USARIO Y TU CONTRASEÑA
-InstagramAPI = InstagramAPI("jnqov4", "MjYads9Yd22upWi")
+InstagramAPI = InstagramAPI("dankentina", "quickstart")
 InstagramAPI.login()  # login
 
 photo_path = 'dank/0001.jpg'
